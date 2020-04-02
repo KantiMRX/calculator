@@ -16,5 +16,7 @@ elif oper == "-":
     print(x - y)
 elif oper == "/":
     print(x / y)
+ elif oper == "*":
+    print(x * y)
 else:
     print("შეცდომა")
